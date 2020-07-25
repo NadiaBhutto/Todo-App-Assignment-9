@@ -1,0 +1,52 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+.header{
+	text-align: center;
+	color: #DCDCDC;
+}
+.header h1{
+	font-size: 55px;
+}
+.custom-card{
+    width: 60%;
+	height: 80%;
+    background-image: url("bgcard.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    padding: 28px 0;
+    margin: 14px auto;
+    text-align: center;
+    box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 1px 3px 1px rgba(60,64,67,.15);
+}
+.btn{
+	 background-image: url("remove-delete-pngrepo-com.png")!important;
+}
+
+.delbtn{
+	color: #fff;
+    background-color: #FF7F50;
+	margin: 0 3px 10px 40px;
+}
+.editbtn{
+	color: #fff;
+    background-color: #6495ED;
+}
+#list{
+	margin-top: 20px;
+	text-decoration: none !important;
+	list-style: none;
+}
+.prompt{
+    font-size: 35px;
+    color: red;
+}
+
+
+
+
+
+
+
